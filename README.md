@@ -1,4 +1,9 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Landing Page for a Ukrainian Natural Eco-Cosmetics Shop
+- [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+- The goal of this project was to create a landing page for a Ukrainian natural eco-cosmetics shop.
+- The landing page aimed to showcase the brand's products and promote their use among potential customers.
+
+## Technologies
+- HTML
+- CSS
+- JS
