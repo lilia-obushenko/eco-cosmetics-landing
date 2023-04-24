@@ -6,4 +6,5 @@
 ## Technologies
 - HTML
 - CSS
+- BEM
 - JS
